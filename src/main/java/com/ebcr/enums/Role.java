@@ -1,0 +1,5 @@
+package com.ebcr.enums;
+
+public enum Role {
+    PASTOR,INSTRUCTOR,REGIONAL,SECRETARY,MANAGER,SINGER,ADMIN,CHRISTIAN,ACCOUNTANT
+}
